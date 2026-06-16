@@ -648,7 +648,7 @@
         "uuid": "487b687d-253d-4f78-80ee-6c1909b9aeef"
       }
     ],
-    "used_designators": "#PWR1-15,D1-88,C1-8,C11-12,S1-88,U1-2,R1-4,J1,SW1,ALT1-2,BACKSPACE1,CAPSLOCK1,CONTROL1-2,DOWN1,ENTER1,LEFT1,MENU1,RIGHT1,SHIFT1,SPACE1,TAB1,WIN1,WINDOWS1,H1-8",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
