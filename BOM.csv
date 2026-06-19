@@ -10,4 +10,5 @@ D1-D88,1N4148W-7-F,SOD-123,88,Evelta.com,https://evelta.com/1n4148w-7-f-100v-300
 U1,ESP32-S3-WROOM-1-N16R8,Module,1,Robu.in,https://robu.in/product/espressif-esp32-s3-wroom-1-n16r8-module/,16MB Flash 8MB PSRAM
 U2,AMS1117-3.3,SOT-223,1,Evelta.com,https://evelta.com/ams1117-3-3-advanced-monolithic-systems-3-3v-1a-ldo-voltage-regulator/,AMS original; 1A LDO; ~₹12
 J1,GCT USB4105-GF-A,16P Top Mount SMD,1,element14 India,https://in.element14.com/gct-global-connector-technology/usb4105-gf-a-060/usb-conn-2-0-type-c-r-a-rcpt-16pos/dp/3777659,USB-C 16P top mount SMD
-SW1-SW88,Cherry MX2A,PCB Mount,88,Meckeys.com,https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/cherry-mx2a-switch/,₹350/10 pack → ~₹3080 total
+SW1-SW88,Cherry MX2A,PCB Mount,88,Meckeys.com,https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/cherry-mx2a-switch/,₹3080 total
+PCB (ArxKey, 2-layer, 280x130mmqty 5),1,JLCPCB,jlcpcb.com,$7,Manufacturing PCB
