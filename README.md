@@ -7,10 +7,10 @@ Customize your keyboard to make sure you enjoy your work. You can also type very
 
 ## Pictures - 
 The Schematic
-<img width="1061" height="730" alt="image" src="https://github.com/user-attachments/assets/f8df278e-c3b5-4529-8906-ba8469c8658e" />
+<img width="1018" height="687" alt="image" src="https://github.com/user-attachments/assets/450f9e94-2e35-4df6-bc14-1ba40f85e5f0" />
 
 The PCB
-<img width="1175" height="521" alt="image" src="https://github.com/user-attachments/assets/67d0b8d9-f7cd-48d6-b6cc-034c6d859405" />
+<img width="1171" height="593" alt="image" src="https://github.com/user-attachments/assets/5d8aa79d-ff13-42a5-92b9-0c2aea6cc852" />
 
 The CAD Model
 <img width="1920" height="1080" alt="keeb" src="https://github.com/user-attachments/assets/af03148c-1585-4285-886d-65fe6a421191" />
