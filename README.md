@@ -3,7 +3,10 @@
 
 ## Why did I make this project?
 Keyboards are a crucial part and parcel of your everyday life and efficiency, and it is crucial for you to have the very best.
-Customize your keyboard to make sure you enjoy your work. You can also type very fast. It is also a very fun project to make, and it is also very cool to have your own custom keyboard.
+It is also a very fun project to make, and it is also very cool to have your own custom keyboard.
+
+## Description
+Full-size mechanical keyboard, custom PCB built around an ESP32-S3. 6x17 switch matrix, BLE only. No wired HID since the WROOM-1 doesn't do native USB. Two-piece case, red top shell over a blue base, designed in Fusion 360 and printed to match hole-for-hole with the PCB mounting points. Standard bottom row, no ISO enter, full nav cluster on the right. Running KMK on the firmware side.
 
 ## Pictures - 
 The Schematic
