@@ -37,12 +37,13 @@ The CAD Model
 | U2 | AMS1117-3.3 | SOT-223 | 1 | Evelta.com | [AMS1117-3.3 — Advanced Monolithic Systems](https://evelta.com/ams1117-3-3-advanced-monolithic-systems-3-3v-1a-ldo-voltage-regulator/) | AMS original; 1A LDO; ~₹12 |
 | J1 | GCT USB4105-GF-A | 16P Top Mount SMD | 1 | element14 India | [USB4105-GF-A-060](https://in.element14.com/gct-global-connector-technology/usb4105-gf-a-060/usb-conn-2-0-type-c-r-a-rcpt-16pos/dp/3777659) | USB-C 16P top mount SMD |
 | SW1–SW88 | Cherry MX2A | PCB Mount | 88 | Meckeys.com | [Cherry MX2A (10/pack)](https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/cherry-mx2a-switch/) | ₹350/10 pack → ~₹3080 total |
-|Total| | | | | |50$|
+| PCB (ArxKey, 2-layer, 280x130mm, qty 5) | 1 | JLCPCB | [Link](https://jlcpcb.com/) |  $7 | Manufacturing PCB |
+|Total| | | | | |57$|
 
 ## Assembly instructions - 
-Flash ESP32 first — caught from the schematic that U1 is the brains, better to test firmware before burying it in solder
-Tantalum polarity warning — C11 and C12 are the ones that'll pop if reversed, called that out hard
-USB-C CC pins — your schematic clearly shows R1/R2 as the CC pull-downs for USB 2.0 negotiation, mentioned explicitly
-Diode orientation — 88 diodes, all SOD-123, all need to face the right way for the matrix to work
-Mounting holes H1–H8 — visible in your PCB layout, referenced in the case assembly step
-Two-layer case — pulled from your 3D render, red top + blue bottom sandwich
+Flash ESP32 first. U1 sits under the keep-out zone — test firmware before it's buried in solder. Way easier to debug now than after assembly.
+Tantalum polarity — watch C11 and C12. Reverse these and they pop. Double-check before placing.
+USB-C CC pins — R1/R2 are the CC pull-downs for USB 2.0 negotiation. Confirmed against schematic.
+Diode orientation — 88x SOD-123 across the matrix. Every single one has to face the right way or the matrix won't read.
+Mounting holes — 6 total (top-left, top-right, mid-left, mid-right, bottom-left, bottom-right). Match these up during case assembly.
+Case — two-layer, red top + blue bottom. Sandwich fit, from the 3D render.
