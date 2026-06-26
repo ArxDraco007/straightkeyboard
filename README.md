@@ -19,7 +19,7 @@ The CAD Model
 <img width="1920" height="1080" alt="keeb" src="https://github.com/user-attachments/assets/af03148c-1585-4285-886d-65fe6a421191" />
 
 ## Zine
-<img width="521" height="780" alt="image" src="https://github.com/user-attachments/assets/6b68fe36-bc26-461d-8af8-f1ae8d720eea" />
+<img width="1304" height="2000" alt="zine (7)" src="https://github.com/user-attachments/assets/21761cac-657a-44d6-b18f-49df1bce9ef4" />
 
 
 ## BOM
