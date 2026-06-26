@@ -43,10 +43,11 @@ The CAD Model
 | PCB (ArxKey, 2-layer, 280x130mm, qty 5) | 1 | JLCPCB | [Link](https://jlcpcb.com/) |  $7 | Manufacturing PCB |
 |Total| | | | | |57$|
 
-## Assembly instructions - 
-Flash ESP32 first. U1 sits under the keep-out zone — test firmware before it's buried in solder. Way easier to debug now than after assembly.
-Tantalum polarity — watch C11 and C12. Reverse these and they pop. Double-check before placing.
-USB-C CC pins — R1/R2 are the CC pull-downs for USB 2.0 negotiation. Confirmed against schematic.
-Diode orientation — 88x SOD-123 across the matrix. Every single one has to face the right way or the matrix won't read.
-Mounting holes — 6 total (top-left, top-right, mid-left, mid-right, bottom-left, bottom-right). Match these up during case assembly.
-Case — two-layer, red top + blue bottom. Sandwich fit, from the 3D render.
+## Stuff You Need to Remember When Making This!!! - 
+- Make sure U1 is in the keepout zone.
+- Flash the ESP32 before assembly for testing.
+- Don't reverse Tantalum capacitors, they pop (Electroboom reference(if you get it)).
+- One SOD-123 per key in the matrix facing right.
+- Mount in mounting holes!
+- Look at the zine and sandwich the PCB.
+- Do everything right or else you're cooked.
