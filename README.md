@@ -52,6 +52,7 @@ The CAD Model
 | **Estimated Total** | **≈ $57** |
 
 ## Stuff You Need to Remember When Making This!!! - 
+- The Case is of 5 parts, you just have to place them right and screw them properly.
 - Make sure U1 is in the keepout zone.
 - Flash the ESP32 before assembly for testing.
 - Don't reverse Tantalum capacitors, they pop (Electroboom reference(if you get it)).
